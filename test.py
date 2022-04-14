@@ -5,3 +5,4 @@ print("orang")
 print("succ")
 
 print("orang")
+print("succ")
